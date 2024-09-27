@@ -9,7 +9,7 @@
 * Basic principles of Machine Learning, Deep Learning and GenAI.
 
 
-**Lesson 2: The Importance of Ethics in AI (1 hour)**
+[**Lesson 2: The Importance of Ethics in AI (1 hour)**](./importance_of_ethics_in_ai.md)
 
 * Significance of ethics in AI development
 * Core ethical principles: fairness, accountability, transparency, privacy
